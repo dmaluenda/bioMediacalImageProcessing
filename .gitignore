@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.png
+*.idea
+
+
+lab3_orderFilter.py
